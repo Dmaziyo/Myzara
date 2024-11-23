@@ -2,7 +2,7 @@
 date: 2024/11/09
 ---
 
-<img src="https://github.com/Dmaziyo/blog-img/blob/main/myzara-cover15.jpg?raw=true" width="400" />
+<img src="https://github.com/Dmaziyo/blog-img/blob/main/myzara-cover15.jpg?raw=true" width="600" />
 
 <small>封面拍自周五晚上跟同事的二次成团夜😂(因为两百块钱还剩100)</small>
 

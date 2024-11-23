@@ -2,7 +2,7 @@
 date: 2024/11/02
 ---
 
-<img src="https://github.com/Dmaziyo/blog-img/blob/main/myzara-cover14.jpg?raw=true" width="400" />
+<img src="https://github.com/Dmaziyo/blog-img/blob/main/myzara-cover14.jpg?raw=true" width="600" />
 
 <small>封面来自我的电脑壁纸，里面包含了很多图案，仿佛纹身一样，每一个都是代表我每个阶段的想法，同时还包含了我朋友给我画的图案，是不是有点艺术气息了？</small>
 
