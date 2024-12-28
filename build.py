@@ -24,7 +24,7 @@ if __name__ == "__main__":
                 old_title = name.split('.md')[0]
                 num = int(old_title.split('-')[0])
                 short_title = old_title.split('-')[1]
-                url = f'https://dmaziyo.github.io/Myzara/posts/{old_title}'
+                url = f'https://myzara.vercel.app/posts/{old_title}'
                 title = f'第 {num} 期 - {short_title}'
                 readme_md = f'* [{title}]({url})\n'
                 posts.append({"num": num, "title": short_title, "url": url})
