@@ -2,6 +2,7 @@
 
 > 记录自己的%2,aka每周摸到的🐟(不定期更新~
 
+* [第 29 期 - 生活中的律动](https://myzara.vercel.app/posts/29-生活中的律动)
 * [第 28 期 - 谈如何记笔记](https://myzara.vercel.app/posts/28-谈如何记笔记)
 * [第 27 期 - 入教TDD](https://myzara.vercel.app/posts/27-入教TDD)
 * [第 26 期 - 命运就像早已录好的磁带](https://myzara.vercel.app/posts/26-命运就像早已录好的磁带)
