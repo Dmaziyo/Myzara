@@ -2,6 +2,7 @@
 
 > 记录自己的%2,aka每周摸到的🐟(不定期更新~
 
+* [第 37 期 - 感情的建立与维系](https://myzara.vercel.app/posts/37-感情的建立与维系)
 * [第 36 期 - 程序员的成长](https://myzara.vercel.app/posts/36-程序员的成长)
 * [第 35 期 - 学习的最佳时机](https://myzara.vercel.app/posts/35-学习的最佳时机)
 * [第 34 期 - 我的王之力啊](https://myzara.vercel.app/posts/34-我的王之力啊)
