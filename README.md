@@ -2,6 +2,7 @@
 
 > 记录自己的%2,aka每周摸到的🐟(不定期更新~
 
+* [第 40 期 - 来都来了](https://myzara.vercel.app/posts/40-来都来了)
 * [第 39 期 - 焦虑没有什么灵丹妙药](https://myzara.vercel.app/posts/39-焦虑没有什么灵丹妙药)
 * [第 38 期 - 主动不是讨好](https://myzara.vercel.app/posts/38-主动不是讨好)
 * [第 37 期 - 感情的建立与维系](https://myzara.vercel.app/posts/37-感情的建立与维系)
