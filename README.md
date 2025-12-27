@@ -2,6 +2,7 @@
 
 > 记录自己的%2,aka每周摸到的🐟(不定期更新~
 
+* [第 43 期 - 你的选择等同于你](https://myzara.vercel.app/posts/43-你的选择等同于你)
 * [第 42 期 - vibecoding的正确方式](https://myzara.vercel.app/posts/42-vibecoding的正确方式)
 * [第 41 期 - 记录可能没有观众](https://myzara.vercel.app/posts/41-记录可能没有观众)
 * [第 40 期 - 来都来了](https://myzara.vercel.app/posts/40-来都来了)
